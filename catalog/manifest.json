@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "home_cocktail",
+  "latest": null,
+  "generatedAt": "2026-10-13T20:47:22+09:00",
+  "minAppVersion": "1.0.0",
+  "releases": [],
+  "bundleBaseline": {
+    "capturedAt": "2026-10-13T20:16:19+09:00",
+    "appVersion": "1.0.0"
+  }
+}
