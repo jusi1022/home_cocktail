@@ -1,0 +1,521 @@
+{
+ "format": "homecocktail.price-stats",
+ "version": 1,
+ "provider": "dailyshot",
+ "generatedAt": "2026-11-24T23:47:20Z",
+ "note": "데일리샷 공개 상품 페이지의 일반 판매가(쿠폰 적용 전) 집계. 참고용 — 실제 가격은 판매처에서 확인.",
+ "items": [
+  {
+   "productId": "aperol",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 29700,
+   "max": 36000,
+   "mean": 32850.0,
+   "median": 32850.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:35Z",
+   "expiresAt": "2026-11-27T20:26:35Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/3438?item=305380"
+   }
+  },
+  {
+   "productId": "aperol",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 43000,
+   "max": 43000,
+   "mean": 43000.0,
+   "median": 43000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:35Z",
+   "expiresAt": "2026-11-27T20:26:35Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/28025?item=493798"
+   }
+  },
+  {
+   "productId": "bacardi_carta_blanca",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 28000,
+   "max": 28000,
+   "mean": 28000.0,
+   "median": 28000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:54Z",
+   "expiresAt": "2026-11-27T20:25:54Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/5372?item=556439"
+   }
+  },
+  {
+   "productId": "bacardi_carta_blanca",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 27900,
+   "max": 27900,
+   "mean": 27900.0,
+   "median": 27900.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:54Z",
+   "expiresAt": "2026-11-27T20:25:54Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/14820?item=409290"
+   }
+  },
+  {
+   "productId": "baileys_original",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 31400,
+   "max": 40000,
+   "mean": 35700.0,
+   "median": 35700.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:26Z",
+   "expiresAt": "2026-11-27T20:26:26Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/3225?item=473588"
+   }
+  },
+  {
+   "productId": "baileys_original",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 29900,
+   "max": 29900,
+   "mean": 29900.0,
+   "median": 29900.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:26Z",
+   "expiresAt": "2026-11-27T20:26:26Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/35838?item=522197"
+   }
+  },
+  {
+   "productId": "baileys_original",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 35000,
+   "max": 35000,
+   "mean": 35000.0,
+   "median": 35000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:26Z",
+   "expiresAt": "2026-11-27T20:26:26Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/7833?item=121047"
+   }
+  },
+  {
+   "productId": "bombay_sapphire",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 28800,
+   "max": 36000,
+   "mean": 32400.0,
+   "median": 32400.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:25:46Z",
+   "expiresAt": "2026-11-27T20:25:46Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/2982?item=642034"
+   }
+  },
+  {
+   "productId": "bombay_sapphire",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 48000,
+   "max": 48000,
+   "mean": 48000.0,
+   "median": 48000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:46Z",
+   "expiresAt": "2026-11-27T20:25:46Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4579?item=158809"
+   }
+  },
+  {
+   "productId": "campari_bitter",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 34300,
+   "max": 39000,
+   "mean": 36650.0,
+   "median": 36650.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:10Z",
+   "expiresAt": "2026-11-27T20:26:10Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4285?item=544569"
+   }
+  },
+  {
+   "productId": "campari_bitter",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 33900,
+   "max": 33900,
+   "mean": 33900.0,
+   "median": 33900.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:10Z",
+   "expiresAt": "2026-11-27T20:26:10Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/5872?item=216932"
+   }
+  },
+  {
+   "productId": "cointreau",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 48000,
+   "max": 48000,
+   "mean": 48000.0,
+   "median": 48000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:22Z",
+   "expiresAt": "2026-11-27T20:26:22Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/33632?item=634274"
+   }
+  },
+  {
+   "productId": "gordons_london_dry",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 29000,
+   "max": 29000,
+   "mean": 29000.0,
+   "median": 29000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:50Z",
+   "expiresAt": "2026-11-27T20:25:50Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/13191?item=195765"
+   }
+  },
+  {
+   "productId": "jack_daniels_old_no7",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 38000,
+   "max": 48600,
+   "mean": 43300.0,
+   "median": 43300.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:19Z",
+   "expiresAt": "2026-11-27T20:26:19Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/2576?item=556234"
+   }
+  },
+  {
+   "productId": "jack_daniels_old_no7",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 60000,
+   "max": 60000,
+   "mean": 60000.0,
+   "median": 60000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:19Z",
+   "expiresAt": "2026-11-27T20:26:19Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4641?item=21450"
+   }
+  },
+  {
+   "productId": "jameson_original",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 29000,
+   "max": 32200,
+   "mean": 30600.0,
+   "median": 30600.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:15Z",
+   "expiresAt": "2026-11-27T20:26:15Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/2731?item=556342"
+   }
+  },
+  {
+   "productId": "jameson_original",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 34000,
+   "max": 34000,
+   "mean": 34000.0,
+   "median": 34000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:15Z",
+   "expiresAt": "2026-11-27T20:26:15Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/13209?item=491770"
+   }
+  },
+  {
+   "productId": "jameson_original",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 38000,
+   "max": 38000,
+   "mean": 38000.0,
+   "median": 38000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:15Z",
+   "expiresAt": "2026-11-27T20:26:15Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4922?item=484475"
+   }
+  },
+  {
+   "productId": "jim_beam_white",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 19900,
+   "max": 19900,
+   "mean": 19900.0,
+   "median": 19900.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:03Z",
+   "expiresAt": "2026-11-27T20:26:03Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4630?item=463627"
+   }
+  },
+  {
+   "productId": "jim_beam_white",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 22000,
+   "max": 22000,
+   "mean": 22000.0,
+   "median": 22000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:03Z",
+   "expiresAt": "2026-11-27T20:26:03Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/3254?item=556292"
+   }
+  },
+  {
+   "productId": "jim_beam_white",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 27900,
+   "max": 28900,
+   "mean": 28400.0,
+   "median": 28400.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:03Z",
+   "expiresAt": "2026-11-27T20:26:03Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4887?item=567458"
+   }
+  },
+  {
+   "productId": "kahlua",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 25500,
+   "max": 28000,
+   "mean": 26750.0,
+   "median": 26750.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:32Z",
+   "expiresAt": "2026-11-27T20:26:32Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/10834?item=339556"
+   }
+  },
+  {
+   "productId": "kahlua",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 24900,
+   "max": 28000,
+   "mean": 26450.0,
+   "median": 26450.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:32Z",
+   "expiresAt": "2026-11-27T20:26:32Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/12184?item=619300"
+   }
+  },
+  {
+   "productId": "kahlua",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 28800,
+   "max": 29800,
+   "mean": 29300.0,
+   "median": 29300.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:32Z",
+   "expiresAt": "2026-11-27T20:26:32Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/10833?item=464979"
+   }
+  },
+  {
+   "productId": "laphroaig_10",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 99900,
+   "max": 99900,
+   "mean": 99900.0,
+   "median": 99900.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:26:07Z",
+   "expiresAt": "2026-11-27T20:26:07Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/12972?item=482847"
+   }
+  },
+  {
+   "productId": "laphroaig_10",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 78000,
+   "max": 79900,
+   "mean": 78950.0,
+   "median": 78950.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:26:07Z",
+   "expiresAt": "2026-11-27T20:26:07Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/17652?item=556408"
+   }
+  },
+  {
+   "productId": "makers_mark_original",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 38000,
+   "max": 44800,
+   "mean": 41400.0,
+   "median": 41400.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:25:59Z",
+   "expiresAt": "2026-11-27T20:25:59Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/3180?item=556241"
+   }
+  },
+  {
+   "productId": "makers_mark_original",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 38000,
+   "max": 54900,
+   "mean": 46450.0,
+   "median": 46450.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:25:59Z",
+   "expiresAt": "2026-11-27T20:25:59Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/10538?item=556240"
+   }
+  },
+  {
+   "productId": "makers_mark_original",
+   "volumeMl": 1000,
+   "currency": "KRW",
+   "min": 80000,
+   "max": 80000,
+   "mean": 80000.0,
+   "median": 80000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:59Z",
+   "expiresAt": "2026-11-27T20:25:59Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4847?item=119545"
+   }
+  },
+  {
+   "productId": "tanqueray_london_dry",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 39000,
+   "max": 39000,
+   "mean": 39000.0,
+   "median": 39000.0,
+   "sellerCount": 1,
+   "checkedAt": "2026-11-24T20:25:42Z",
+   "expiresAt": "2026-11-27T20:25:42Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4452?item=556455"
+   }
+  },
+  {
+   "productId": "tanqueray_london_dry",
+   "volumeMl": 750,
+   "currency": "KRW",
+   "min": 36200,
+   "max": 38000,
+   "mean": 37100.0,
+   "median": 37100.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:25:42Z",
+   "expiresAt": "2026-11-27T20:25:42Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/11576?item=229635"
+   }
+  },
+  {
+   "productId": "tanqueray_no_ten",
+   "volumeMl": 700,
+   "currency": "KRW",
+   "min": 54700,
+   "max": 58000,
+   "mean": 56350.0,
+   "median": 56350.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-24T20:25:42Z",
+   "expiresAt": "2026-11-27T20:25:42Z",
+   "source": {
+    "name": "데일리샷",
+    "url": "https://dailyshot.co/m/item/4219?item=229634"
+   }
+  }
+ ]
+}
