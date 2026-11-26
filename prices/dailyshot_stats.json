@@ -2,7 +2,7 @@
  "format": "homecocktail.price-stats",
  "version": 1,
  "provider": "dailyshot",
- "generatedAt": "2026-11-24T23:47:20Z",
+ "generatedAt": "2026-11-26T05:36:45Z",
  "note": "데일리샷 공개 상품 페이지의 일반 판매가(쿠폰 적용 전) 집계. 참고용 — 실제 가격은 판매처에서 확인.",
  "items": [
   {
@@ -14,8 +14,8 @@
    "mean": 32850.0,
    "median": 32850.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:35Z",
-   "expiresAt": "2026-11-27T20:26:35Z",
+   "checkedAt": "2026-11-26T05:35:01Z",
+   "expiresAt": "2026-11-29T05:35:01Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/3438?item=305380"
@@ -30,8 +30,8 @@
    "mean": 43000.0,
    "median": 43000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:35Z",
-   "expiresAt": "2026-11-27T20:26:35Z",
+   "checkedAt": "2026-11-26T05:35:01Z",
+   "expiresAt": "2026-11-29T05:35:01Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/28025?item=493798"
@@ -46,8 +46,8 @@
    "mean": 28000.0,
    "median": 28000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:54Z",
-   "expiresAt": "2026-11-27T20:25:54Z",
+   "checkedAt": "2026-11-26T05:34:23Z",
+   "expiresAt": "2026-11-29T05:34:23Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/5372?item=556439"
@@ -62,8 +62,8 @@
    "mean": 27900.0,
    "median": 27900.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:54Z",
-   "expiresAt": "2026-11-27T20:25:54Z",
+   "checkedAt": "2026-11-26T05:34:23Z",
+   "expiresAt": "2026-11-29T05:34:23Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/14820?item=409290"
@@ -78,8 +78,8 @@
    "mean": 35700.0,
    "median": 35700.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:26Z",
-   "expiresAt": "2026-11-27T20:26:26Z",
+   "checkedAt": "2026-11-26T05:34:54Z",
+   "expiresAt": "2026-11-29T05:34:54Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/3225?item=473588"
@@ -94,8 +94,8 @@
    "mean": 29900.0,
    "median": 29900.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:26Z",
-   "expiresAt": "2026-11-27T20:26:26Z",
+   "checkedAt": "2026-11-26T05:34:54Z",
+   "expiresAt": "2026-11-29T05:34:54Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/35838?item=522197"
@@ -110,8 +110,8 @@
    "mean": 35000.0,
    "median": 35000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:26Z",
-   "expiresAt": "2026-11-27T20:26:26Z",
+   "checkedAt": "2026-11-26T05:34:54Z",
+   "expiresAt": "2026-11-29T05:34:54Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/7833?item=121047"
@@ -126,8 +126,8 @@
    "mean": 32400.0,
    "median": 32400.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:25:46Z",
-   "expiresAt": "2026-11-27T20:25:46Z",
+   "checkedAt": "2026-11-26T05:34:16Z",
+   "expiresAt": "2026-11-29T05:34:16Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/2982?item=642034"
@@ -142,8 +142,8 @@
    "mean": 48000.0,
    "median": 48000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:46Z",
-   "expiresAt": "2026-11-27T20:25:46Z",
+   "checkedAt": "2026-11-26T05:34:16Z",
+   "expiresAt": "2026-11-29T05:34:16Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4579?item=158809"
@@ -158,8 +158,8 @@
    "mean": 36650.0,
    "median": 36650.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:10Z",
-   "expiresAt": "2026-11-27T20:26:10Z",
+   "checkedAt": "2026-11-26T05:34:39Z",
+   "expiresAt": "2026-11-29T05:34:39Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4285?item=544569"
@@ -174,8 +174,8 @@
    "mean": 33900.0,
    "median": 33900.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:10Z",
-   "expiresAt": "2026-11-27T20:26:10Z",
+   "checkedAt": "2026-11-26T05:34:39Z",
+   "expiresAt": "2026-11-29T05:34:39Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/5872?item=216932"
@@ -190,8 +190,8 @@
    "mean": 48000.0,
    "median": 48000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:22Z",
-   "expiresAt": "2026-11-27T20:26:22Z",
+   "checkedAt": "2026-11-26T05:34:50Z",
+   "expiresAt": "2026-11-29T05:34:50Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/33632?item=634274"
@@ -206,8 +206,8 @@
    "mean": 29000.0,
    "median": 29000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:50Z",
-   "expiresAt": "2026-11-27T20:25:50Z",
+   "checkedAt": "2026-11-26T05:34:19Z",
+   "expiresAt": "2026-11-29T05:34:19Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/13191?item=195765"
@@ -217,16 +217,16 @@
    "productId": "jack_daniels_old_no7",
    "volumeMl": 700,
    "currency": "KRW",
-   "min": 38000,
-   "max": 48600,
-   "mean": 43300.0,
-   "median": 43300.0,
+   "min": 31900,
+   "max": 36000,
+   "mean": 33950.0,
+   "median": 33950.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:19Z",
-   "expiresAt": "2026-11-27T20:26:19Z",
+   "checkedAt": "2026-11-26T05:34:47Z",
+   "expiresAt": "2026-11-29T05:34:47Z",
    "source": {
     "name": "데일리샷",
-    "url": "https://dailyshot.co/m/item/2576?item=556234"
+    "url": "https://dailyshot.co/m/item/2576?item=547703"
    }
   },
   {
@@ -238,8 +238,8 @@
    "mean": 60000.0,
    "median": 60000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:19Z",
-   "expiresAt": "2026-11-27T20:26:19Z",
+   "checkedAt": "2026-11-26T05:34:47Z",
+   "expiresAt": "2026-11-29T05:34:47Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4641?item=21450"
@@ -254,8 +254,8 @@
    "mean": 30600.0,
    "median": 30600.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:15Z",
-   "expiresAt": "2026-11-27T20:26:15Z",
+   "checkedAt": "2026-11-26T05:34:43Z",
+   "expiresAt": "2026-11-29T05:34:43Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/2731?item=556342"
@@ -270,8 +270,8 @@
    "mean": 34000.0,
    "median": 34000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:15Z",
-   "expiresAt": "2026-11-27T20:26:15Z",
+   "checkedAt": "2026-11-26T05:34:43Z",
+   "expiresAt": "2026-11-29T05:34:43Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/13209?item=491770"
@@ -286,8 +286,8 @@
    "mean": 38000.0,
    "median": 38000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:15Z",
-   "expiresAt": "2026-11-27T20:26:15Z",
+   "checkedAt": "2026-11-26T05:34:43Z",
+   "expiresAt": "2026-11-29T05:34:43Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4922?item=484475"
@@ -302,8 +302,8 @@
    "mean": 19900.0,
    "median": 19900.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:03Z",
-   "expiresAt": "2026-11-27T20:26:03Z",
+   "checkedAt": "2026-11-26T05:34:31Z",
+   "expiresAt": "2026-11-29T05:34:31Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4630?item=463627"
@@ -314,12 +314,12 @@
    "volumeMl": 750,
    "currency": "KRW",
    "min": 22000,
-   "max": 22000,
-   "mean": 22000.0,
-   "median": 22000.0,
-   "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:03Z",
-   "expiresAt": "2026-11-27T20:26:03Z",
+   "max": 34300,
+   "mean": 28150.0,
+   "median": 28150.0,
+   "sellerCount": 2,
+   "checkedAt": "2026-11-26T05:34:31Z",
+   "expiresAt": "2026-11-29T05:34:31Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/3254?item=556292"
@@ -334,8 +334,8 @@
    "mean": 28400.0,
    "median": 28400.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:03Z",
-   "expiresAt": "2026-11-27T20:26:03Z",
+   "checkedAt": "2026-11-26T05:34:31Z",
+   "expiresAt": "2026-11-29T05:34:31Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4887?item=567458"
@@ -350,8 +350,8 @@
    "mean": 26750.0,
    "median": 26750.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:32Z",
-   "expiresAt": "2026-11-27T20:26:32Z",
+   "checkedAt": "2026-11-26T05:34:58Z",
+   "expiresAt": "2026-11-29T05:34:58Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/10834?item=339556"
@@ -366,8 +366,8 @@
    "mean": 26450.0,
    "median": 26450.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:32Z",
-   "expiresAt": "2026-11-27T20:26:32Z",
+   "checkedAt": "2026-11-26T05:34:58Z",
+   "expiresAt": "2026-11-29T05:34:58Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/12184?item=619300"
@@ -382,8 +382,8 @@
    "mean": 29300.0,
    "median": 29300.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:32Z",
-   "expiresAt": "2026-11-27T20:26:32Z",
+   "checkedAt": "2026-11-26T05:34:58Z",
+   "expiresAt": "2026-11-29T05:34:58Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/10833?item=464979"
@@ -398,8 +398,8 @@
    "mean": 99900.0,
    "median": 99900.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:26:07Z",
-   "expiresAt": "2026-11-27T20:26:07Z",
+   "checkedAt": "2026-11-26T05:34:35Z",
+   "expiresAt": "2026-11-29T05:34:35Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/12972?item=482847"
@@ -414,8 +414,8 @@
    "mean": 78950.0,
    "median": 78950.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:26:07Z",
-   "expiresAt": "2026-11-27T20:26:07Z",
+   "checkedAt": "2026-11-26T05:34:35Z",
+   "expiresAt": "2026-11-29T05:34:35Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/17652?item=556408"
@@ -430,8 +430,8 @@
    "mean": 41400.0,
    "median": 41400.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:25:59Z",
-   "expiresAt": "2026-11-27T20:25:59Z",
+   "checkedAt": "2026-11-26T05:34:27Z",
+   "expiresAt": "2026-11-29T05:34:27Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/3180?item=556241"
@@ -446,8 +446,8 @@
    "mean": 46450.0,
    "median": 46450.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:25:59Z",
-   "expiresAt": "2026-11-27T20:25:59Z",
+   "checkedAt": "2026-11-26T05:34:27Z",
+   "expiresAt": "2026-11-29T05:34:27Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/10538?item=556240"
@@ -462,8 +462,8 @@
    "mean": 80000.0,
    "median": 80000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:59Z",
-   "expiresAt": "2026-11-27T20:25:59Z",
+   "checkedAt": "2026-11-26T05:34:27Z",
+   "expiresAt": "2026-11-29T05:34:27Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4847?item=119545"
@@ -478,8 +478,8 @@
    "mean": 39000.0,
    "median": 39000.0,
    "sellerCount": 1,
-   "checkedAt": "2026-11-24T20:25:42Z",
-   "expiresAt": "2026-11-27T20:25:42Z",
+   "checkedAt": "2026-11-26T05:34:11Z",
+   "expiresAt": "2026-11-29T05:34:11Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4452?item=556455"
@@ -494,8 +494,8 @@
    "mean": 37100.0,
    "median": 37100.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:25:42Z",
-   "expiresAt": "2026-11-27T20:25:42Z",
+   "checkedAt": "2026-11-26T05:34:11Z",
+   "expiresAt": "2026-11-29T05:34:11Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/11576?item=229635"
@@ -510,8 +510,8 @@
    "mean": 56350.0,
    "median": 56350.0,
    "sellerCount": 2,
-   "checkedAt": "2026-11-24T20:25:42Z",
-   "expiresAt": "2026-11-27T20:25:42Z",
+   "checkedAt": "2026-11-26T05:34:11Z",
+   "expiresAt": "2026-11-29T05:34:11Z",
    "source": {
     "name": "데일리샷",
     "url": "https://dailyshot.co/m/item/4219?item=229634"
